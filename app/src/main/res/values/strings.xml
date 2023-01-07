@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lesson6_3</string>
+    <string name="save">save</string>
+    <string name="write_there">write_there</string>
+    <string name="ПИСАТЬ_ЗДЕСЬ">писать здесь</string>
+    <string name="сохранить">сохранить</string>
+    <string name="send">send</string>
+</resources>
